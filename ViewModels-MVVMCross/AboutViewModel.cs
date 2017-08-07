@@ -4,7 +4,6 @@ using System.Windows.Input;
 using MvvmCross.Core.ViewModels;
 using MvvmCross.Platform;
 using PAR.Mobile;
-using PAR.Core.ViewModels;
 
 namespace PAR.Core
 {
